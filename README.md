@@ -6,6 +6,7 @@
 
 
 ## Description:
+This is the twitter clone application.
 
 ## Installation:
 
@@ -14,6 +15,11 @@
 ## Usage:
  
 ## Support:
+## Technology:
+Firebase<br>
+
+React<br>
+Node.js<br>
    
 ## Roadmap:
  
